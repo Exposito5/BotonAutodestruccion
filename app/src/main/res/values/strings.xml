@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppConCosas</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="a1">a1</string>
+    <string name="todo">TODO</string>
+    <string name="comenzar">Comenzar</string>
+    <string name="button">Button</string>
+</resources>

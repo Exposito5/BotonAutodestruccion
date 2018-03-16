@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false"
+    >
+<item android:duration="500"
+      android:drawable="@mipmap/explosion1"/>
+
+    <item android:duration="500"
+        android:drawable="@mipmap/explosion2"/>
+
+    <item android:duration="500"
+        android:drawable="@mipmap/explosion3"/>
+
+    <item android:duration="500"
+        android:drawable="@mipmap/explosion4"/>
+
+    <item android:duration="500"
+        android:drawable="@mipmap/explosion5"/>
+
+    <item android:duration="500"
+        android:drawable="@mipmap/explosion6"/>
+
+    <item android:duration="500"
+        android:drawable="@mipmap/explosion7"/>
+
+    <item android:duration="500"
+        android:drawable="@mipmap/explosion8"/>
+
+</animation-list>
